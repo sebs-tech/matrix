@@ -4,9 +4,9 @@
 #include <time.h>
 #include <vector>
 
-#define WINDOW_WIDTH 800
-#define WINDOW_HEIGHT 600
-#define CELL_SIZE 20  // Size of each grid cell
+#define WINDOW_WIDTH 1800
+#define WINDOW_HEIGHT 1600
+#define CELL_SIZE 40  // Size of each grid cell
 
 const int TARGET_FPS = 60;             // Target frames per second
 const int FRAME_DELAY = 1000 / TARGET_FPS; // Delay per frame in milliseconds
